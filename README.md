@@ -1,6 +1,6 @@
 # Makine Öğrenmesi Kaynakları 📚
-Makine Öğrenmesi için gerekli olan Matematik, İstatistik, Algoritmalar ve Veri Yapıları, Makine Öğrenmesi Algoritmaları<br/>
-ve Derin Öğrenme konuları hakkındaki kaynaklara buradan erişebilirsiniz. Türkçe kaynaklara özellikle yer vermeye çalışacağım.<br/>
+Makine Öğrenmesi için gerekli olan Matematik, İstatistik, Algoritmalar ve Veri Yapıları, Makine Öğrenmesi Algoritmaları
+ve Derin Öğrenme konuları hakkındaki kaynaklara buradan erişebilirsiniz. Türkçe kaynaklara özellikle yer vermeye çalışacağım.
 Bu repo sürekli güncellenecektir. Sizler de ekleme yapabilirsiniz.🙂
 
 ## Makine Öğrenmesi
